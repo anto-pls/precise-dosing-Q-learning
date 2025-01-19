@@ -1,0 +1,1 @@
+A proof of concept experiment to show the usage of Q-learning for precise drug dosing. The data used here is simulated based on various parameters due to unavailablity of a real one. The model can be tested using real data and improved.
